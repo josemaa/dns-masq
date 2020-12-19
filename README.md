@@ -10,4 +10,4 @@ Es capaz de proporcionar un redireccionador de sistema de nombres de dominio, se
 2.- [Comprobación]()
 
 # Referencia:
-(https://www.server-world.info/en/note?os=Debian_10&p=dnsmasq&f=1)
+[Pagina utilizada](https://www.server-world.info/en/note?os=Debian_10&p=dnsmasq&f=1)
